@@ -8,5 +8,5 @@ Omeka_s
 
 ## Instalation
 
-Voir la documentation générale destinée à l'utilisateur  pour [Installing a module](http://omeka.org/s/docs/user-manual/modules/#installing-modules)
+Voir la documentation générale destinée à l'utilisateur  pour [Installer le module](http://omeka.org/s/docs/user-manual/modules/#installing-modules)
 
