@@ -12,3 +12,5 @@ Omeka_s
 
 Voir la documentation générale destinée à l'utilisateur  pour [Installer le module](http://omeka.org/s/docs/user-manual/modules/#installing-modules)
 
+## Copyright
+TAKBOU Imane ©
