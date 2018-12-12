@@ -8,9 +8,10 @@ Extraire les noms de balise Xml et le text de noeuds XML
 
 Omeka_s
 
+## Contact
+
+Imane TAKBOU
+
 ## Instalation
 
-Voir la documentation générale destinée à l'utilisateur  pour [Installer le module](http://omeka.org/s/docs/user-manual/modules/#installing-modules)
-
-## Copyright
-TAKBOU Imane ©
+Voir la documentation générale destinée à l'utilisateur  pour [Installer le module
