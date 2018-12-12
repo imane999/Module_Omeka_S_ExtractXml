@@ -12,7 +12,7 @@ Omeka_s
 
 ## Instalation
 
-Voir la documentation générale destinée à l'utilisateur  pour [Installer le module
+Voir la documentation générale destinée à l'utilisateur  pour [Installer le module]
 
 ## Contact
 
